@@ -6,7 +6,7 @@ Author: Ismail Alamir
 
 
 ### Setup
-## [Pull requests](https://github.com/IsmailAlamir/drf-api-permissions-postgres/pull/1)
+## [Pull requests](https://github.com/IsmailAlamir/drf-api-permissions-postgres/pull/2)
 
 
 #### run the server
